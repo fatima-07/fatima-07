@@ -1,0 +1,100 @@
+1. Tell me about yourself.
+S – I’ve spent the last few years working in document control and data accuracy roles.
+T – My focus has been managing data, improving workflows, and building tracking systems.
+A – I used Excel, SharePoint, SQL and Python to clean data, automate processes, and support reporting.
+R – This helped reduce errors, improve turnaround time, and strengthen data reliability. Now I’m building deeper analytics skills through NPower and certifications, and I’m excited to apply them in a structured data team like RBC.
+
+2. Why do you want to work at RBC?
+S – I’m transitioning into analytics engineering and looking for a place to grow.
+T – I want to work in a team that handles real data workflows and reporting at scale.
+A – RBC’s procurement data team aligns with my strengths in data quality, ETL support, and reporting automation.
+R – It’s a perfect environment to apply my skills while learning from experienced data professionals.
+
+3. What relevant experience do you have for this role?
+S – In my Document Control role, I handled large datasets and workflow tracking.
+T – I needed to ensure accuracy, consistency, and timely reporting.
+A – I built Excel dashboards, validated data, automated routing, and improved retrieval processes.
+R – This directly matches the role’s focus on ETL support, data validation, reporting, and automation.
+
+4. Tell me about a time you improved a process.
+S – Our document approval process was slow and manual.
+T – I needed to reduce delays and errors.
+A – I automated routing using Teams + SharePoint workflows.
+R – Manual errors dropped by 60% and turnaround time improved significantly.
+
+5. Tell me about a time you worked with data.
+S – At Solutions3X, I handled raw datasets with many inconsistencies.
+T – My job was to clean and prepare them for reporting.
+A – I normalized formats, removed duplicates, validated entries, and structured the data.
+R – The cleaned datasets were used for executive reporting and improved decision-making.
+
+6. Tell me about a time you collaborated with multiple teams.
+S – At EvolveLab, document reviews involved delivery, legal, pre-sales, and client teams.
+T – I had to coordinate approvals smoothly.
+A – I created tracking dashboards, set clear timelines, and communicated updates.
+R – Approvals became faster and more predictable, improving project delivery.
+
+7. How do you handle tight deadlines?
+S – During proposal cycles, deadlines were often very tight.
+T – I needed to ensure documents and data were accurate and delivered on time.
+A – I prioritized tasks, used tracking sheets, and communicated early if risks appeared.
+R – I consistently met deadlines without compromising accuracy.
+
+8. What is your experience with SQL/Python?
+S – I’ve used SQL and Python during training and projects.
+T – My goal was to analyze, clean, and validate data.
+A – I wrote SQL queries for filtering, grouping, and joining data; used Python (Pandas) for cleaning and visualization.
+R – This gives me a strong foundation to support ETL, reporting, and automation at RBC.
+
+9. Tell me about a time you ensured data quality.
+S – In document control, accuracy was critical for compliance.
+T – I had to validate every dataset before release.
+A – I checked formats, cross‑verified entries, and maintained version control.
+R – This reduced rework and ensured audit readiness.
+
+10. What motivates you?
+S – I enjoy solving problems and making processes smoother.
+T – I’m motivated when I can turn messy data or workflows into something clean and reliable.
+A – I use tools like Excel, SQL, and Python to automate and improve processes.
+R – Seeing measurable improvements motivates me to keep learning and growing.
+
+⭐ Behavioral Questions RBC Loves + Short STAR Answers
+11. Describe a challenge you faced and how you handled it.
+S – We had inconsistent document versions across teams.
+T – I needed to fix version control.
+A – I created a structured indexing system and centralized storage.
+R – Retrieval became faster and errors dropped significantly.
+
+12. How do you learn new tools or technologies?
+S – When I started learning Python and SQL, I had no prior background.
+T – I needed to build skills quickly.
+A – I used hands‑on labs, small projects, and consistent practice.
+R – Now I can confidently use them for data cleaning, analysis, and automation.
+
+13. Tell me about a time you handled confidential information.
+S – I managed NDAs and compliance documents.
+T – I had to ensure secure handling and proper disposition.
+A – I followed strict access rules and conducted quarterly audits.
+R – We securely disposed of 200+ expired records and reduced storage costs.
+
+⭐ HR Questions About You (Short Answers)
+14. What are your strengths?
+Detail‑oriented
+
+Strong with data accuracy
+
+Quick learner
+
+Organized and reliable
+
+Good at simplifying processes
+
+15. What is your weakness?
+S – I used to spend too much time perfecting small details.
+A – I now set time limits and focus on impact.
+R – This helps me balance quality with efficiency.
+16. Where do you see yourself in 2–3 years?
+Supporting data workflows, building automated reporting solutions, and growing into a stronger analytics engineer within RBC.
+
+⭐ One-Line Closing Statement (Memorable)
+“I bring strong data accuracy, workflow improvement experience, and growing technical skills — and I’m excited to contribute to RBC’s data and reporting needs.”
